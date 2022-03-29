@@ -1,4 +1,4 @@
-# PrototypeII
+# Prototype II
 
 Program DetectArucoMarkers.py
 -------------------------------
