@@ -1,6 +1,6 @@
 # Prototype II
 
-Program DetectArucoMarkers.py
+Program - DetectArucoMarkers.py
 -------------------------------
   This program will detect aruco markers and print the marker Id on the console. This is used to uniquly identify each face of the cube.
 
