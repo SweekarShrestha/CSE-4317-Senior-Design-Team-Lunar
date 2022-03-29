@@ -11,4 +11,4 @@ Program - DetectArucoMarkers.py
   - Modify opencv camera code if configured with multiple cameras
   - Run command -> `python3 DetectArucoMarkers.py`
   - Show aruco markers on the camera feed
-  - The program should output the markerId (of the shown aruco marker) on the console
+  - The program should output the markerId (_of the shown aruco marker_) on the console
