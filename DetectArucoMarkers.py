@@ -44,10 +44,11 @@ def main():
         # loop through all the foundArucoMarkers and augment an image onto each of the marker
         # if length of the 1st element (bounding boxes) is 0, then we did not detect anything
         if len(foundArucoMarkers[0]) != 0:
-
             # looping through each boundingBox and markerId -> using zip function
             for boundingBox, markerId in zip(foundArucoMarkers[0], foundArucoMarkers[1]):
-                print(markerId)
+                # markers are of type numpy array -> in our case because we are only detecting one marker at a time it will only
+                # be a numpy array with one element, containing the id of the marker
+                print(markerId[0])
 
         cv2.imshow("Webcam Feed", webcamFeed)
         cv2.waitKey(1)
