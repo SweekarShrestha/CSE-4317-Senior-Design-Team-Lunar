@@ -7,9 +7,9 @@ Program - DetectArucoMarkers.py
    Installation requirements
    ---------------------------
    - Install opencv with aruco marker -> `pip3 install opencv-contrib-python`
-   - Allow Python camera usage from system preferences 
+   - Allow Python camera usage from system preferences. 
    - Modify opencv camera code if configured with multiple cameras
    - Run command -> `python3 DetectArucoMarkers.py`
-   - Show aruco markers on the camera feed
+   - Show aruco markers on the camera feed.
    - The program should output the markerId (_of the shown aruco marker_) on the console
    - REQUIRED - PYTHON 3.7, NEWER WILL NOT WORK
