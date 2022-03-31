@@ -1,4 +1,4 @@
-# Senior Design 2
+# Senior Design 
 
 Team Lunar
 ------------
