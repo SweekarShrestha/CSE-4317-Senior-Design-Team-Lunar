@@ -20,7 +20,7 @@ Background Information
 
 Installation requirements
 ---------------------------
-- Install opencv with aruco marker -> `pip3 install opencv-contrib-python`
+- Install opencv with aruco markers -> `pip3 install opencv-contrib-python`
 - Install native opencv -> `pip3 install opencv-python`
 - Install numpy -> `pip3 install numpy`
 - Allow Python camera usage from system preferences. 
