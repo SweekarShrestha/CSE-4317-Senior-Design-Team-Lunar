@@ -18,7 +18,7 @@ Background Information
 - Each face of the Cube is detected by our software through AruCo Markers and for each unique face, the software will project a unique projection or an interactive OpenCV application.
 
 
-Installation requirements
+Python Installation requirements
 ---------------------------
 - Install opencv with aruco markers -> `pip3 install opencv-contrib-python`
 - Install native opencv -> `pip3 install opencv-python`
@@ -29,6 +29,10 @@ Installation requirements
 - Show aruco markers on the camera feed.
 - The program should output the markerId (_of the shown aruco marker_) on the console
 - REQUIRED - PYTHON 3.7, NEWER WILL NOT WORK
+
+Madmapper and Spout Installation requirements
+----------------------------------------------
+_will be added soon_
 
 
 Current Limitations
