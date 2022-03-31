@@ -11,7 +11,7 @@ Team Lunar
 
 Background Information
 -----------------------
-- This repository contains our Capstone project source code and relevant files for Senior Deign Project course (CSE-4317) at UTA offered by Dr. McMurrough.
+- This repository contains our Capstone project source code and relevant files for Senior Deign course (CSE-4317) at UTA offered by Dr. McMurrough.
 - We were tasked with creating an interactive projection mapping software to improve the nightlife of downtown Arlington
 - Our project projects a spatial video mapping projection onto a Cube - where each faces provide a unique projection presentation involving graphic design and computer vision games
 - Each face of the Cube is detected by our software through AruCo Markers and for each unique face, the software will project a unique projection or an interactive OpenCV application.
