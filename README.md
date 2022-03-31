@@ -1,4 +1,4 @@
-# Prototype II
+# Senior Design 2
 
 Program - DetectArucoMarkers.py
 -------------------------------
