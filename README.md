@@ -2,6 +2,8 @@
 
 Team Lunar
 ------------
+![LunarLogo](https://user-images.githubusercontent.com/67570641/160968159-b4bb0814-9495-4220-9dd9-9eeca6e679cd.png)
+
 - Mohammad Abusalah
 - Eric Nwagwu
 - Showvik Das
