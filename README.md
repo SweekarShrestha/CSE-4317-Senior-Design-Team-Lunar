@@ -25,9 +25,6 @@ Python and OpenCV Installation requirements
 - Install numpy -> `pip3 install numpy`
 - Allow Python camera usage from system preferences. 
 - Modify opencv camera code if configured with multiple cameras
-- Run command -> `python3 DetectArucoMarkers.py`
-- Show aruco markers on the camera feed.
-- The program should output the markerId (_of the shown aruco marker_) on the console
 - REQUIRED - PYTHON 3.7, NEWER WILL NOT WORK
 
 
