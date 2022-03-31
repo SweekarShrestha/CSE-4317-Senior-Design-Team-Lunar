@@ -6,6 +6,7 @@ Team Lunar
 - Mohammad Abusalah
 - Eric Nwagwu
 - Showvik Das
+- Sunil Pandey
 - Sweekar Shrestha
 
 
