@@ -12,3 +12,4 @@ Program - DetectArucoMarkers.py
    - Run command -> `python3 DetectArucoMarkers.py`
    - Show aruco markers on the camera feed
    - The program should output the markerId (_of the shown aruco marker_) on the console
+   - REQUIRED - PYTHON 3.7, NEWER WILL NOT WORK
