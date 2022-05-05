@@ -23,6 +23,9 @@ Python and OpenCV Installation requirements
 - Install opencv with aruco markers -> `pip3 install opencv-contrib-python`
 - Install native opencv -> `pip3 install opencv-python`
 - Install numpy -> `pip3 install numpy`
+- Install pygame -> pip3 install pygame
+- Install OpenGL -> pip3 install pyopengl
+- Install mediapipe -> pip3 install mediapipe
 - Allow Python camera usage from system preferences. 
 - Modify opencv camera code if configured with multiple cameras
 - REQUIRED - PYTHON 3.7, NEWER WILL NOT WORK
