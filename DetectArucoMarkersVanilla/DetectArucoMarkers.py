@@ -2,7 +2,7 @@ import cv2
 import cv2.aruco as aruco
 import numpy as np
 import os #needed to access directory containing actual marker pictures
-
+# https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI
 # Steps to use this module
 # 1) Load all the images using loadAugmentedImages function
 # 2) Find all the markers using the findArucoMarkers function

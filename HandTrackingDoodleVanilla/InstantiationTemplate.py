@@ -1,6 +1,7 @@
 import cv2
 import HandTrackingModule as htm
 
+# https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI
 videoCapture = cv2.VideoCapture(0)
 
 # instantiation of HandMotionTracker

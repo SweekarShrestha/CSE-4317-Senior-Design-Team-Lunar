@@ -2,6 +2,7 @@ import cv2
 import HandTrackingModule as htm
 import numpy as np
 
+# https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI
 # 1) Find Hand landmarks
 # 2) Check which fingers are up
 # 3) If at selection mode (2 fingers are up) - select

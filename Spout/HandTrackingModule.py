@@ -1,6 +1,6 @@
 import cv2
 import mediapipe as mp
-
+# referenced - https://spout.discourse.group/
 class HandMotionTracker():
     # basic parameters required for medapipe Hands
     # these attributes can be used to change the default params that gets passed in when we initialize
