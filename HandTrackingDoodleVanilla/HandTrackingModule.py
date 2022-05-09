@@ -1,6 +1,8 @@
 import cv2
 import mediapipe as mp
 
+# https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI
+
 class HandMotionTracker():
     # basic parameters required for medapipe Hands
     # these attributes can be used to change the default params that gets passed in when we initialize
