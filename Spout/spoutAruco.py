@@ -1,6 +1,8 @@
 import sys
 import os
 # referenced - https://spout.discourse.group/
+# referenced - https://github.com/spiraltechnica/Spout-for-Python/blob/master/Examples/spout_webcam_sender_example.py
+
 sys.path.append('{}/Library/3{}'.format(os.getcwd(), sys.version_info[1]))
  
 import argparse
