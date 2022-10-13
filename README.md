@@ -30,12 +30,6 @@ Python and OpenCV Installation requirements
 - Modify opencv camera code if configured with multiple cameras
 - REQUIRED - PYTHON 3.7, NEWER WILL NOT WORK
 
-
-Madmapper and Spout Installation requirements
-----------------------------------------------
-_will be added soon_
-
-
 Current Limitations
 ---------------------
 - We are currently using Spout to transfer over our OpenCV Script to Madmapper. However, due to spout only being available on Windows, this project only runs on Windows machine for now. An alternative to spout for macOS is Syphon which can be used for similar functionality. 
